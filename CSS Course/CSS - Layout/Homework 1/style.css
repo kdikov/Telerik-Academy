@@ -1,0 +1,23 @@
+.menu{
+    list-style: none;
+    padding: 0;
+}
+.menu li{
+    
+}
+.menu dl{margin: 0;}
+
+.menu li:hover dt{
+    text-decoration: underline;
+}
+.menu li dd a{
+    color: gray;
+    font-weight: bold;
+}
+.menu li dd{
+    display: none;
+    margin-left: 10px;
+}
+.menu li:hover dd{
+    display: block;
+}

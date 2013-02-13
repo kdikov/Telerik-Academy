@@ -1,0 +1,58 @@
+body{
+  background-color: #595959;
+  font-family:Arial,Helvetica,sans-serif;
+  text-align: left;
+}
+
+.col1{
+	width: 140px;
+}
+.col2{
+	width: 180px;
+}
+
+table th,td {
+	vertical-align: top;
+    color: #9A9EA4;
+}
+
+table th{
+	font-size: 22px;
+	color: #B3B0A8;
+	font-weight: normal;
+	height: 40px;
+}
+
+table td{
+    height: 35px;
+}
+
+table td:first-child{
+  font-style: italic;
+  color:  #ABB5B6;
+}
+
+table tr:nth-child(1) td{
+  height:14px;
+}
+
+.circle{
+  float: left;
+  background-color:#71B47A;
+  border-radius: 15px;
+  width: 15px;
+  height: 15px;
+  margin-right: 5px;
+}
+#noactive{
+	vertical-align:top;
+	color: red;
+}
+td a{
+	color: #D5D6A1;
+	text-decoration: none;
+}
+.notAnswered{
+	color: #DC6930;
+	font-weight: bold;
+}

@@ -1,0 +1,223 @@
+.calc-buffer *{margin: 0px; padding: 0px;}
+
+.calc-buffer{
+    width: 408px;
+    height: 377px;
+    border: 1px solid #000;
+    border-radius: 5px 5px 0 0;
+    background: url("images/body-bg.png") repeat-x #B0CDEC;
+    font-family: Segoe UI;
+    padding: 0 7px 10px;
+}
+
+.upper{
+    background: url("images/calculator-icon.jpg") no-repeat;
+    height: 21px;
+    margin: 9px 3px 0px 9px;
+}
+
+.title{
+    padding-left: 18px;
+    font-size: 12px;
+    float: left;
+}
+
+.upper-right{
+    float: right;
+    height: 16px;
+    width: 29px;
+    background: url("images/upper-right.jpg") repeat-x;
+    margin: 0 1px;
+
+    border-radius: 2px;
+}
+
+.minimize{
+    background: url("images/minimize.jpg") no-repeat;
+    border: 1px solid #63748D;
+}
+.minimize:hover{
+    background: url("images/minimize-active.jpg") no-repeat;
+}
+.full-window{
+    background: url("images/full-window.jpg") no-repeat;
+    border: 1px solid #859BB5;
+}
+.close-window{
+    background: url("images/close-window.jpg") no-repeat;
+    border: 1px solid #431422;
+}
+.close-window:hover{
+    background: url("images/close-window-active.jpg") no-repeat;
+}
+
+/*-------Menu------*/
+
+.menu-div {
+    background: red;
+    height: 18px;
+    background: url("images/menu-bg.jpg") repeat-x;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #888;
+    box-shadow: 0 0 1px #000000;
+}
+
+.menu-div ul{list-style-type: none;}
+
+.menu-div ul li{
+    float: left;
+    font-size: 12px;
+    padding: 2px 7px;
+    border-radius: 2px;
+}
+
+.calc-body{
+    background: url("images/calc-bg.jpg") repeat-x #D9E4F1;
+    height: 309px;
+    padding: 10px 12px; 
+    border: 1px solid #FFFFFF;
+    box-shadow: 0 0 1px #000000;
+}
+
+.calc-body div{
+    border-radius: 2px;
+    color: #1E395B;
+}
+
+.calc-body .values{
+    font-size: 23px;
+    line-height: 23px;
+    direction: rtl;
+    color: #000;
+    padding: 16px 5px 10px 0;
+    background: url("images/calc-values-bg.jpg") repeat-x;
+    border: 1px solid #888;
+}
+
+/*--------Binary-----------*/
+
+.binary-buffer{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid #888;
+}
+.binary{
+    padding: 2px 0x;
+    border: 1px solid #ffffff
+}
+
+.binary table{
+    width: 100%;
+    text-align: right;
+    border-collapse: collapse;
+}
+
+.binary table td{
+    font-size: 12px;
+    border-left: 10px solid #D9E4F1;
+    padding-right: 10px;
+    font-family: Consolas;
+}
+.binary table tr:nth-child(even){
+    color: #888;
+    text-align: left;
+}
+
+.binary table td:last-child{text-align: right;}
+
+/*---CALCULATOR BODY---*/
+
+/*---first radio div---*/
+
+.radio-button-divs{
+    border: 1px solid #888;
+    width: 67px;
+	height: 80px;
+    padding: 8px 0 0 7px;
+    float: left;
+	line-height: 15px;
+}
+.radio-button-divs span{
+    display: block;
+    font-size: 11px;
+    margin-bottom: 4px;
+}
+
+.radio-button-divs label {
+    font-size: 11px;
+    line-height: 12px;
+    vertical-align: top;
+}
+
+/*---Buttons---*/
+.buttons table{
+    border-collapse:collapse;
+}
+
+.buttons table td{
+    height: 26px;
+    font-size: 12px;
+    padding: 0 0 6px 6px;
+}
+
+.buttons div{
+    border: 1px solid #fff;
+    background: url("images/button-function.jpg");
+    box-shadow: 0px 0px 0px 1px #8797AA;
+    border-radius: 2px;
+    width: 30px;
+    height: 23px;
+    text-align: center;
+    line-height: 23px;
+    vertical-align: middle;
+    cursor: pointer;
+    font-size: 11px;
+}
+
+.buttons table td:nth-child(3) div{
+    font-size: 16px;
+    line-height: 21px;
+}
+
+.buttons div:hover{
+    background: url("images/button-function-active.jpg");
+    box-shadow: 0 0 0 1px #F5D50F;
+}
+
+.buttons .disabled, .buttons .disabled:hover{
+    background: none;
+    box-shadow: 0 0 0;
+    border-color: #B4C2D1;
+    cursor: default;
+}
+
+.buttons .button-no-bg{
+    background: none;
+}
+
+.buttons .number{
+    background: url("images/button-numbers.jpg");
+    font-size: 15px;
+}
+
+.buttons .arrow{
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 18px;
+}
+
+.buttons .equals{
+    height: 55px;
+    vertical-align: middle;
+    line-height: 52px;
+    font-size: 22px;
+    font-weight: bold;
+    background: url("images/equals-bg.jpg") repeat-x;
+}
+.buttons .equals:hover{
+    background: url("images/equals-bg-active.jpg");
+}
+.buttons .zero{
+    width: 68px
+}

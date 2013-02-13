@@ -1,0 +1,152 @@
+/*Hover gallery - created by K.Dikov*/
+
+$imagesCount: 5;
+$onFocus: 1; //default focused image
+
+//////IMAGE SIZE 
+$fullSizeWidth: 225px; 
+$fullSizeHeight: 225px; 
+$fullSizeImageBorder: 3px; 
+
+//////THUMBNAILS SIZE
+//$thumbScale: 1 / $imagesCount; //use for no padding to the full size image 
+
+$thumbScale: 0.35; //use for custom scale
+
+$thumbSizeWidth: $fullSizeWidth * $thumbScale;
+$thumbSizeHeight: $fullSizeHeight * $thumbScale;
+//$thumbSizeWidth: 80px;
+//$thumbSizeHeight: 80px;
+
+//////IMAGES
+$imagesLocation: "images/";
+$imagesName: "image"; //without indexes and format
+$imagesFormat: ".jpg";
+
+//////DO NOT CHANGE
+$galleryWidth: $thumbSizeWidth * $imagesCount;
+@if $fullSizeWidth > $thumbSizeWidth * $imagesCount{
+	$galleryWidth: $fullSizeWidth + $fullSizeImageBorder * 2;
+}
+@if $thumbScale == 1 / $imagesCount{
+	$fullSizeImageBorder: 0px;
+}
+/////
+
+@mixin galleryThumb ($index, $width, $height){
+	$index: $imagesLocation + $imagesName + $index + $imagesFormat; 
+	background: url($index) no-repeat;
+	background-size: $width $height;
+}
+
+@mixin transition ($property, $time, $delay){
+	transition: $property $time linear;
+	-moz-transition: $property $time linear; 
+	-webkit-transition: $property $time linear;
+	-o-transition: $property $time linear; 
+
+	transition-delay: $delay;
+	-moz-transition-delay: $delay; 
+	-webkit-transition-delay: $delay;
+	-o-transition-delay: $delay; 
+}
+.hover-gallery{
+	font-family: Verdana;
+	float: left;
+	position: relative;
+	width: $galleryWidth;
+	margin: 10px;
+	color: #fff;
+	text-align: center;
+	font-size: 12px;
+	background: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.65) 100%); 
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.65))); 
+	background: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.65) 100%);
+	background: -o-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.65) 100%); 
+	background: -ms-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.65) 100%);
+	background: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.65) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#a6000000',GradientType=0 );
+
+	border: 1px solid #666;
+	border-radius: 8px 8px 5px 5px;
+	header h3, footer h4{margin: 0;}
+	header h3{
+		background: #222;
+		line-height: 22px;
+		border-bottom: 1px solid #888;
+		border-radius: 6px 6px 0 0;
+	}
+	footer h4{
+		clear: both;
+		background: #444;
+		border-radius: 0 0 3px 3px;
+		font-weight: normal;
+		font-size: 10px;
+		line-height: 15px;
+		color: #aaa;
+		text-align: right;
+		padding-right: 5px;
+	}
+}
+.images{
+
+	@for $i from 1 through $imagesCount
+	{
+		div:nth-child(#{$i}){
+			@include galleryThumb($i, $thumbSizeWidth, $thumbSizeHeight);
+			&:hover ~ div:last-child{
+				@include galleryThumb($i, $fullSizeWidth, $fullSizeHeight);
+				opacity: 1;
+			}
+		}	
+	}
+
+	div{
+		&:hover{
+			box-shadow:none;
+			span{opacity: 1;}
+		}
+		float: left;
+		width: $thumbSizeWidth;
+		height: $thumbSizeHeight;
+		border-bottom: 1px solid #fff;
+		cursor: pointer;
+		box-shadow: -($thumbSizeWidth / 1.5) 0 0 0 rgba(50,50,50,0.4) inset,
+					-($thumbSizeWidth / 3) 0 0 0 rgba(50,50,50,0.4) inset,
+					-($thumbSizeWidth / 8) 0 0 0 rgba(50,50,50,0.4) inset;
+		@include transition(all, 200ms, 0);
+
+		span{
+			//display: none;
+			position: absolute;
+			top: $fullSizeHeight + $thumbSizeHeight - 20px;
+			left: ($galleryWidth) / 2 - $fullSizeWidth / 2;
+			width: $fullSizeWidth - $fullSizeImageBorder * 2 - 5px;
+			padding: 5px;
+			height: 45px;
+			font-size: 10px;
+			text-align: left;
+			color: #fff;
+			background: rgba(50,50,50,0.5);
+			z-index: 1000;
+			overflow: hidden;
+			opacity: 0;
+			@include transition(all, 400ms, 300ms);
+		}
+	}
+	//Full size image div
+	div:last-child{
+		cursor: default;
+		display: block;
+		width: $fullSizeWidth;
+		height: $fullSizeHeight;
+		margin: 10px 0 10px ($galleryWidth - $fullSizeImageBorder * 2) / 2 - $fullSizeWidth / 2;
+		@include galleryThumb($onFocus, $fullSizeWidth, $fullSizeHeight);
+		opacity: 0.2;
+		background-position: (-$fullSizeWidth * 0.15) (-$fullSizeHeight * 0.15);
+		border: $fullSizeImageBorder solid #eee;
+		border-radius: 5px;
+		box-shadow: 0 0 25px 0px #000 inset, 0 0 4px 2px #ccc;
+		@include transition(all, 500ms, 0);
+	}
+}

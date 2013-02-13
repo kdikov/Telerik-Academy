@@ -1,0 +1,19 @@
+@font-face{
+    font-family: Edscr;
+    src: url("ITCEdscr.ttf");
+}
+
+body{
+    font-family: Consolas;
+    color: #0094ff;
+    font-size: 18px;
+}
+
+h1{
+    font-size: 26px;
+}
+
+.firstLetter{
+    font-family: Edscr;
+    font-size: 60px;
+}

@@ -1,0 +1,134 @@
+/*Hover gallery - created by K.Dikov*/
+.hover-gallery {
+  font-family: Verdana;
+  float: left;
+  position: relative;
+  width: 393.75px;
+  margin: 10px;
+  color: #fff;
+  text-align: center;
+  font-size: 12px;
+  background: -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.65) 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(0, 0, 0, 0)), color-stop(100%, rgba(0, 0, 0, 0.65)));
+  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.65) 100%);
+  background: -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.65) 100%);
+  background: -ms-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.65) 100%);
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.65) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#a6000000',GradientType=0 );
+  border: 1px solid #666666;
+  border-radius: 8px 8px 5px 5px; }
+  .hover-gallery header h3, .hover-gallery footer h4 {
+    margin: 0; }
+  .hover-gallery header h3 {
+    background: #222;
+    line-height: 22px;
+    border-bottom: 1px solid #888888;
+    border-radius: 6px 6px 0 0; }
+  .hover-gallery footer h4 {
+    clear: both;
+    background: #444;
+    border-radius: 0 0 3px 3px;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 15px;
+    color: #aaa;
+    text-align: right;
+    padding-right: 5px; }
+
+.images div:nth-child(1) {
+  background: url("images/image1.jpg") no-repeat;
+  background-size: 78.75px 78.75px; }
+  .images div:nth-child(1):hover ~ div:last-child {
+    background: url("images/image1.jpg") no-repeat;
+    background-size: 225px 225px;
+    opacity: 1; }
+.images div:nth-child(2) {
+  background: url("images/image2.jpg") no-repeat;
+  background-size: 78.75px 78.75px; }
+  .images div:nth-child(2):hover ~ div:last-child {
+    background: url("images/image2.jpg") no-repeat;
+    background-size: 225px 225px;
+    opacity: 1; }
+.images div:nth-child(3) {
+  background: url("images/image3.jpg") no-repeat;
+  background-size: 78.75px 78.75px; }
+  .images div:nth-child(3):hover ~ div:last-child {
+    background: url("images/image3.jpg") no-repeat;
+    background-size: 225px 225px;
+    opacity: 1; }
+.images div:nth-child(4) {
+  background: url("images/image4.jpg") no-repeat;
+  background-size: 78.75px 78.75px; }
+  .images div:nth-child(4):hover ~ div:last-child {
+    background: url("images/image4.jpg") no-repeat;
+    background-size: 225px 225px;
+    opacity: 1; }
+.images div:nth-child(5) {
+  background: url("images/image5.jpg") no-repeat;
+  background-size: 78.75px 78.75px; }
+  .images div:nth-child(5):hover ~ div:last-child {
+    background: url("images/image5.jpg") no-repeat;
+    background-size: 225px 225px;
+    opacity: 1; }
+.images div {
+  float: left;
+  width: 78.75px;
+  height: 78.75px;
+  border-bottom: 1px solid white;
+  cursor: pointer;
+  box-shadow: -52.5px 0 0 0 rgba(50, 50, 50, 0.4) inset, -26.25px 0 0 0 rgba(50, 50, 50, 0.4) inset, -9.84375px 0 0 0 rgba(50, 50, 50, 0.4) inset;
+  transition: all 200ms linear;
+  -moz-transition: all 200ms linear;
+  -webkit-transition: all 200ms linear;
+  -o-transition: all 200ms linear;
+  transition-delay: 0;
+  -moz-transition-delay: 0;
+  -webkit-transition-delay: 0;
+  -o-transition-delay: 0; }
+  .images div:hover {
+    box-shadow: none; }
+    .images div:hover span {
+      opacity: 1; }
+  .images div span {
+    position: absolute;
+    top: 283.75px;
+    left: 84.375px;
+    width: 214px;
+    padding: 5px;
+    height: 45px;
+    font-size: 10px;
+    text-align: left;
+    color: #fff;
+    background: rgba(50, 50, 50, 0.5);
+    z-index: 1000;
+    overflow: hidden;
+    opacity: 0;
+    transition: all 400ms linear;
+    -moz-transition: all 400ms linear;
+    -webkit-transition: all 400ms linear;
+    -o-transition: all 400ms linear;
+    transition-delay: 300ms;
+    -moz-transition-delay: 300ms;
+    -webkit-transition-delay: 300ms;
+    -o-transition-delay: 300ms; }
+.images div:last-child {
+  cursor: default;
+  display: block;
+  width: 225px;
+  height: 225px;
+  margin: 10px 0 10px 81.375px;
+  background: url("images/image1.jpg") no-repeat;
+  background-size: 225px 225px;
+  opacity: 0.2;
+  background-position: -33.75px -33.75px;
+  border: 3px solid #eeeeee;
+  border-radius: 5px;
+  box-shadow: 0 0 25px 0px black inset, 0 0 4px 2px #cccccc;
+  transition: all 500ms linear;
+  -moz-transition: all 500ms linear;
+  -webkit-transition: all 500ms linear;
+  -o-transition: all 500ms linear;
+  transition-delay: 0;
+  -moz-transition-delay: 0;
+  -webkit-transition-delay: 0;
+  -o-transition-delay: 0; }
