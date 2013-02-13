@@ -1,0 +1,5 @@
+D:\C# Part II\Text files\Task 09 - Delete odd lines\bin\Debug\Task 09 - Delete odd lines.exe.config
+D:\C# Part II\Text files\Task 09 - Delete odd lines\bin\Debug\Task 09 - Delete odd lines.exe
+D:\C# Part II\Text files\Task 09 - Delete odd lines\bin\Debug\Task 09 - Delete odd lines.pdb
+D:\C# Part II\Text files\Task 09 - Delete odd lines\obj\Debug\Task 09 - Delete odd lines.exe
+D:\C# Part II\Text files\Task 09 - Delete odd lines\obj\Debug\Task 09 - Delete odd lines.pdb

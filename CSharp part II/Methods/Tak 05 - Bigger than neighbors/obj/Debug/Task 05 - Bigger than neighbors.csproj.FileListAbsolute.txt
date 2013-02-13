@@ -1,0 +1,6 @@
+D:\C#\Methods\Tak 05 - Bigger than neighbors\bin\Debug\Tak 05 - Bigger than neighbors.exe.config
+D:\C#\Methods\Tak 05 - Bigger than neighbors\obj\Debug\Task 05 - Bigger than neighbors.csprojResolveAssemblyReference.cache
+D:\C#\Methods\Tak 05 - Bigger than neighbors\bin\Debug\Tak 05 - Bigger than neighbors.exe
+D:\C#\Methods\Tak 05 - Bigger than neighbors\bin\Debug\Tak 05 - Bigger than neighbors.pdb
+D:\C#\Methods\Tak 05 - Bigger than neighbors\obj\Debug\Tak 05 - Bigger than neighbors.exe
+D:\C#\Methods\Tak 05 - Bigger than neighbors\obj\Debug\Tak 05 - Bigger than neighbors.pdb

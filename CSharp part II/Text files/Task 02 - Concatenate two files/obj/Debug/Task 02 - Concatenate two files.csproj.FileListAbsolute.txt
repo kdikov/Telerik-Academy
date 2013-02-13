@@ -1,0 +1,5 @@
+D:\C# Part II\Text files\Task 02 - Concatenate two files\bin\Debug\Task 02 - Concatenate two files.exe.config
+D:\C# Part II\Text files\Task 02 - Concatenate two files\bin\Debug\Task 02 - Concatenate two files.exe
+D:\C# Part II\Text files\Task 02 - Concatenate two files\bin\Debug\Task 02 - Concatenate two files.pdb
+D:\C# Part II\Text files\Task 02 - Concatenate two files\obj\Debug\Task 02 - Concatenate two files.exe
+D:\C# Part II\Text files\Task 02 - Concatenate two files\obj\Debug\Task 02 - Concatenate two files.pdb

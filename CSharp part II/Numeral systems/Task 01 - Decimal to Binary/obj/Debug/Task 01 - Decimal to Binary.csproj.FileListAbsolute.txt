@@ -1,0 +1,5 @@
+D:\C# Part II\Numeral systems\Task 01 - Decimal to Binary\bin\Debug\Task 01 - Decimal to Binary.exe.config
+D:\C# Part II\Numeral systems\Task 01 - Decimal to Binary\bin\Debug\Task 01 - Decimal to Binary.exe
+D:\C# Part II\Numeral systems\Task 01 - Decimal to Binary\bin\Debug\Task 01 - Decimal to Binary.pdb
+D:\C# Part II\Numeral systems\Task 01 - Decimal to Binary\obj\Debug\Task 01 - Decimal to Binary.exe
+D:\C# Part II\Numeral systems\Task 01 - Decimal to Binary\obj\Debug\Task 01 - Decimal to Binary.pdb

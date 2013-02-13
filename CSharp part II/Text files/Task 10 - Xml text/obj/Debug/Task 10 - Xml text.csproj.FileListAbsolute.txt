@@ -1,0 +1,6 @@
+D:\C# Part II\Text files\Task 10 - Xml text\bin\Debug\Task 10 - Xml text.exe.config
+D:\C# Part II\Text files\Task 10 - Xml text\obj\Debug\Task 10 - Xml text.csprojResolveAssemblyReference.cache
+D:\C# Part II\Text files\Task 10 - Xml text\bin\Debug\Task 10 - Xml text.exe
+D:\C# Part II\Text files\Task 10 - Xml text\bin\Debug\Task 10 - Xml text.pdb
+D:\C# Part II\Text files\Task 10 - Xml text\obj\Debug\Task 10 - Xml text.exe
+D:\C# Part II\Text files\Task 10 - Xml text\obj\Debug\Task 10 - Xml text.pdb

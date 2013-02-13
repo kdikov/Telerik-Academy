@@ -1,0 +1,5 @@
+D:\C#\Methods\Task 02 - GetMax\bin\Debug\Task 02 - GetMax.exe.config
+D:\C#\Methods\Task 02 - GetMax\bin\Debug\Task 02 - GetMax.exe
+D:\C#\Methods\Task 02 - GetMax\bin\Debug\Task 02 - GetMax.pdb
+D:\C#\Methods\Task 02 - GetMax\obj\Debug\Task 02 - GetMax.exe
+D:\C#\Methods\Task 02 - GetMax\obj\Debug\Task 02 - GetMax.pdb

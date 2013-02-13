@@ -1,0 +1,6 @@
+D:\C#\Methods\Task 08 - Add numbers\bin\Debug\Task 08 - Add numbers.exe.config
+D:\C#\Methods\Task 08 - Add numbers\obj\Debug\Task 08 - Add numbers.csprojResolveAssemblyReference.cache
+D:\C#\Methods\Task 08 - Add numbers\bin\Debug\Task 08 - Add numbers.exe
+D:\C#\Methods\Task 08 - Add numbers\bin\Debug\Task 08 - Add numbers.pdb
+D:\C#\Methods\Task 08 - Add numbers\obj\Debug\Task 08 - Add numbers.exe
+D:\C#\Methods\Task 08 - Add numbers\obj\Debug\Task 08 - Add numbers.pdb

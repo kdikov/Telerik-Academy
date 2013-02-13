@@ -1,0 +1,2 @@
+Test file for replacing words starting with ""
+ starttest {} "" _test

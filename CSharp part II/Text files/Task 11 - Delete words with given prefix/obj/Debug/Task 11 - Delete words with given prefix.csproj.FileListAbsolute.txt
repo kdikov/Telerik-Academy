@@ -1,0 +1,5 @@
+D:\C# Part II\Text files\Task 11 - Delete words with given prefix\bin\Debug\Task 11 - Delete words with given prefix.exe.config
+D:\C# Part II\Text files\Task 11 - Delete words with given prefix\bin\Debug\Task 11 - Delete words with given prefix.exe
+D:\C# Part II\Text files\Task 11 - Delete words with given prefix\bin\Debug\Task 11 - Delete words with given prefix.pdb
+D:\C# Part II\Text files\Task 11 - Delete words with given prefix\obj\Debug\Task 11 - Delete words with given prefix.exe
+D:\C# Part II\Text files\Task 11 - Delete words with given prefix\obj\Debug\Task 11 - Delete words with given prefix.pdb

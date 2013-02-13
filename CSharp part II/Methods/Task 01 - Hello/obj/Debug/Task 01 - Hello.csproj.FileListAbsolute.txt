@@ -1,0 +1,6 @@
+D:\C#\Methods\Task 01 - Hello\bin\Debug\Task 01 - Hello.exe.config
+D:\C#\Methods\Task 01 - Hello\obj\Debug\Task 01 - Hello.csprojResolveAssemblyReference.cache
+D:\C#\Methods\Task 01 - Hello\bin\Debug\Task 01 - Hello.exe
+D:\C#\Methods\Task 01 - Hello\bin\Debug\Task 01 - Hello.pdb
+D:\C#\Methods\Task 01 - Hello\obj\Debug\Task 01 - Hello.exe
+D:\C#\Methods\Task 01 - Hello\obj\Debug\Task 01 - Hello.pdb

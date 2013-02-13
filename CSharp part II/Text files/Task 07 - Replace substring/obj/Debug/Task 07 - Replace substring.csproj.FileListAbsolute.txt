@@ -1,0 +1,6 @@
+D:\C# Part II\Text files\Task 07 - Replace substring\bin\Debug\Task 07 - Replace substring.exe.config
+D:\C# Part II\Text files\Task 07 - Replace substring\obj\Debug\Task 07 - Replace substring.csprojResolveAssemblyReference.cache
+D:\C# Part II\Text files\Task 07 - Replace substring\bin\Debug\Task 07 - Replace substring.exe
+D:\C# Part II\Text files\Task 07 - Replace substring\bin\Debug\Task 07 - Replace substring.pdb
+D:\C# Part II\Text files\Task 07 - Replace substring\obj\Debug\Task 07 - Replace substring.exe
+D:\C# Part II\Text files\Task 07 - Replace substring\obj\Debug\Task 07 - Replace substring.pdb

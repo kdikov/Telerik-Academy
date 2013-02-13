@@ -1,0 +1,6 @@
+D:\C# Part II\Numeral systems\Task 09 - Float to Binary\bin\Debug\Task 09 - Float to Binary.exe.config
+D:\C# Part II\Numeral systems\Task 09 - Float to Binary\obj\Debug\Task 09 - Float to Binary.csprojResolveAssemblyReference.cache
+D:\C# Part II\Numeral systems\Task 09 - Float to Binary\bin\Debug\Task 09 - Float to Binary.exe
+D:\C# Part II\Numeral systems\Task 09 - Float to Binary\bin\Debug\Task 09 - Float to Binary.pdb
+D:\C# Part II\Numeral systems\Task 09 - Float to Binary\obj\Debug\Task 09 - Float to Binary.exe
+D:\C# Part II\Numeral systems\Task 09 - Float to Binary\obj\Debug\Task 09 - Float to Binary.pdb

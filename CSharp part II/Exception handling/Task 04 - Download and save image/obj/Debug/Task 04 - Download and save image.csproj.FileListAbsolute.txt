@@ -1,0 +1,6 @@
+D:\C# Part II\Exception handling\Task 04 - Download and save image\bin\Debug\Task 04 - Download and save image.exe.config
+D:\C# Part II\Exception handling\Task 04 - Download and save image\bin\Debug\Task 04 - Download and save image.exe
+D:\C# Part II\Exception handling\Task 04 - Download and save image\bin\Debug\Task 04 - Download and save image.pdb
+D:\C# Part II\Exception handling\Task 04 - Download and save image\obj\Debug\Task 04 - Download and save image.exe
+D:\C# Part II\Exception handling\Task 04 - Download and save image\obj\Debug\Task 04 - Download and save image.pdb
+D:\C# Part II\Exception handling\Task 04 - Download and save image\obj\Debug\Task 04 - Download and save image.csprojResolveAssemblyReference.cache

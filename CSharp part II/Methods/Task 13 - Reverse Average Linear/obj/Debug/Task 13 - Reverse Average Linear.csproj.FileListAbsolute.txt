@@ -1,0 +1,6 @@
+D:\C#\Methods\Task 13 - Reverse Average Linear\bin\Debug\Task 13 - Reverse Average Linear.exe.config
+D:\C#\Methods\Task 13 - Reverse Average Linear\obj\Debug\Task 13 - Reverse Average Linear.csprojResolveAssemblyReference.cache
+D:\C#\Methods\Task 13 - Reverse Average Linear\bin\Debug\Task 13 - Reverse Average Linear.exe
+D:\C#\Methods\Task 13 - Reverse Average Linear\bin\Debug\Task 13 - Reverse Average Linear.pdb
+D:\C#\Methods\Task 13 - Reverse Average Linear\obj\Debug\Task 13 - Reverse Average Linear.exe
+D:\C#\Methods\Task 13 - Reverse Average Linear\obj\Debug\Task 13 - Reverse Average Linear.pdb

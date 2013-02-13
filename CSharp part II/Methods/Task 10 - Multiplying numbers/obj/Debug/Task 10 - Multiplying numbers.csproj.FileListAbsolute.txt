@@ -1,0 +1,6 @@
+D:\C#\Methods\Task 10 - Multiplying numbers\bin\Debug\Task 10 - Multiplying numbers.exe.config
+D:\C#\Methods\Task 10 - Multiplying numbers\bin\Debug\Task 10 - Multiplying numbers.exe
+D:\C#\Methods\Task 10 - Multiplying numbers\bin\Debug\Task 10 - Multiplying numbers.pdb
+D:\C#\Methods\Task 10 - Multiplying numbers\obj\Debug\Task 10 - Multiplying numbers.csprojResolveAssemblyReference.cache
+D:\C#\Methods\Task 10 - Multiplying numbers\obj\Debug\Task 10 - Multiplying numbers.exe
+D:\C#\Methods\Task 10 - Multiplying numbers\obj\Debug\Task 10 - Multiplying numbers.pdb

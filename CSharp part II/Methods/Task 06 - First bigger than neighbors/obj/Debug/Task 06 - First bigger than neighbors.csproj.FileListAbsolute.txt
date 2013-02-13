@@ -1,0 +1,5 @@
+D:\C#\Methods\Task 06 - First bigger than neighbors\bin\Debug\Task 06 - First bigger than neighbors.exe.config
+D:\C#\Methods\Task 06 - First bigger than neighbors\bin\Debug\Task 06 - First bigger than neighbors.exe
+D:\C#\Methods\Task 06 - First bigger than neighbors\bin\Debug\Task 06 - First bigger than neighbors.pdb
+D:\C#\Methods\Task 06 - First bigger than neighbors\obj\Debug\Task 06 - First bigger than neighbors.exe
+D:\C#\Methods\Task 06 - First bigger than neighbors\obj\Debug\Task 06 - First bigger than neighbors.pdb

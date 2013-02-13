@@ -1,0 +1,6 @@
+D:\C#\Methods\Task 11 - Add polynomials\bin\Debug\Task 11 - Add polynomials.exe.config
+D:\C#\Methods\Task 11 - Add polynomials\bin\Debug\Task 11 - Add polynomials.exe
+D:\C#\Methods\Task 11 - Add polynomials\bin\Debug\Task 11 - Add polynomials.pdb
+D:\C#\Methods\Task 11 - Add polynomials\obj\Debug\Task 11 - Add polynomials.csprojResolveAssemblyReference.cache
+D:\C#\Methods\Task 11 - Add polynomials\obj\Debug\Task 11 - Add polynomials.exe
+D:\C#\Methods\Task 11 - Add polynomials\obj\Debug\Task 11 - Add polynomials.pdb

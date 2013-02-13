@@ -1,0 +1,5 @@
+D:\C#\Methods\Task 07 - Reverse Digits\bin\Debug\Task 07 - Reverse Digits.exe.config
+D:\C#\Methods\Task 07 - Reverse Digits\bin\Debug\Task 07 - Reverse Digits.exe
+D:\C#\Methods\Task 07 - Reverse Digits\bin\Debug\Task 07 - Reverse Digits.pdb
+D:\C#\Methods\Task 07 - Reverse Digits\obj\Debug\Task 07 - Reverse Digits.exe
+D:\C#\Methods\Task 07 - Reverse Digits\obj\Debug\Task 07 - Reverse Digits.pdb

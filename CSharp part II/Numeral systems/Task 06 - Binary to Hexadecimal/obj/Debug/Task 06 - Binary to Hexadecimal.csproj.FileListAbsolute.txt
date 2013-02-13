@@ -1,0 +1,6 @@
+D:\C# Part II\Numeral systems\Task 06 - Binary to Hexadecimal\bin\Debug\Task 06 - Binary to Hexadecimal.exe.config
+D:\C# Part II\Numeral systems\Task 06 - Binary to Hexadecimal\obj\Debug\Task 06 - Binary to Hexadecimal.csprojResolveAssemblyReference.cache
+D:\C# Part II\Numeral systems\Task 06 - Binary to Hexadecimal\bin\Debug\Task 06 - Binary to Hexadecimal.exe
+D:\C# Part II\Numeral systems\Task 06 - Binary to Hexadecimal\bin\Debug\Task 06 - Binary to Hexadecimal.pdb
+D:\C# Part II\Numeral systems\Task 06 - Binary to Hexadecimal\obj\Debug\Task 06 - Binary to Hexadecimal.exe
+D:\C# Part II\Numeral systems\Task 06 - Binary to Hexadecimal\obj\Debug\Task 06 - Binary to Hexadecimal.pdb

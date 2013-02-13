@@ -1,0 +1,6 @@
+D:\C#\Methods\Task 12 - Extended task 11\bin\Debug\Task 12 - Extended task 11.exe.config
+D:\C#\Methods\Task 12 - Extended task 11\bin\Debug\Task 12 - Extended task 11.exe
+D:\C#\Methods\Task 12 - Extended task 11\bin\Debug\Task 12 - Extended task 11.pdb
+D:\C#\Methods\Task 12 - Extended task 11\obj\Debug\Task 12 - Extended task 11.csprojResolveAssemblyReference.cache
+D:\C#\Methods\Task 12 - Extended task 11\obj\Debug\Task 12 - Extended task 11.exe
+D:\C#\Methods\Task 12 - Extended task 11\obj\Debug\Task 12 - Extended task 11.pdb

@@ -1,0 +1,6 @@
+D:\C#\Methods\Task 04 - Number of appearances\bin\Debug\Task 04 - Number of appearances.exe.config
+D:\C#\Methods\Task 04 - Number of appearances\bin\Debug\Task 04 - Number of appearances.exe
+D:\C#\Methods\Task 04 - Number of appearances\bin\Debug\Task 04 - Number of appearances.pdb
+D:\C#\Methods\Task 04 - Number of appearances\obj\Debug\Task 04 - Number of appearances.csprojResolveAssemblyReference.cache
+D:\C#\Methods\Task 04 - Number of appearances\obj\Debug\Task 04 - Number of appearances.exe
+D:\C#\Methods\Task 04 - Number of appearances\obj\Debug\Task 04 - Number of appearances.pdb

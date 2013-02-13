@@ -1,0 +1,2 @@
+Test file for replaceing substring finish with substring finish
+Teststart starttest {finish} "finish" 123start123

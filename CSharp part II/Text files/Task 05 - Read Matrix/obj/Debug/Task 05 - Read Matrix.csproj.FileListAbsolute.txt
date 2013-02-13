@@ -1,0 +1,6 @@
+D:\C# Part II\Text files\Task 05 - Read Matrix\bin\Debug\Task 05 - Read Matrix.exe.config
+D:\C# Part II\Text files\Task 05 - Read Matrix\obj\Debug\Task 05 - Read Matrix.csprojResolveAssemblyReference.cache
+D:\C# Part II\Text files\Task 05 - Read Matrix\bin\Debug\Task 05 - Read Matrix.exe
+D:\C# Part II\Text files\Task 05 - Read Matrix\bin\Debug\Task 05 - Read Matrix.pdb
+D:\C# Part II\Text files\Task 05 - Read Matrix\obj\Debug\Task 05 - Read Matrix.exe
+D:\C# Part II\Text files\Task 05 - Read Matrix\obj\Debug\Task 05 - Read Matrix.pdb

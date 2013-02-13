@@ -1,0 +1,6 @@
+D:\C#\Methods\Task 14 - Min Max Average Sum Product\bin\Debug\Task 14 - Min Max Average Sum Product.exe.config
+D:\C#\Methods\Task 14 - Min Max Average Sum Product\obj\Debug\Task 14 - Min Max Average Sum Product.csprojResolveAssemblyReference.cache
+D:\C#\Methods\Task 14 - Min Max Average Sum Product\bin\Debug\Task 14 - Min Max Average Sum Product.exe
+D:\C#\Methods\Task 14 - Min Max Average Sum Product\bin\Debug\Task 14 - Min Max Average Sum Product.pdb
+D:\C#\Methods\Task 14 - Min Max Average Sum Product\obj\Debug\Task 14 - Min Max Average Sum Product.exe
+D:\C#\Methods\Task 14 - Min Max Average Sum Product\obj\Debug\Task 14 - Min Max Average Sum Product.pdb

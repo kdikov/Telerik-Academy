@@ -1,0 +1,6 @@
+D:\C# Part II\Text files\Task 12 - Replace words from given file\bin\Debug\Task 12 - Replace words from given file.exe.config
+D:\C# Part II\Text files\Task 12 - Replace words from given file\bin\Debug\Task 12 - Replace words from given file.exe
+D:\C# Part II\Text files\Task 12 - Replace words from given file\bin\Debug\Task 12 - Replace words from given file.pdb
+D:\C# Part II\Text files\Task 12 - Replace words from given file\obj\Debug\Task 12 - Replace words from given file.exe
+D:\C# Part II\Text files\Task 12 - Replace words from given file\obj\Debug\Task 12 - Replace words from given file.pdb
+D:\C# Part II\Text files\Task 12 - Replace words from given file\obj\Debug\Task 12 - Replace words from given file.csprojResolveAssemblyReference.cache

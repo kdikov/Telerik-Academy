@@ -1,0 +1,5 @@
+D:\C#\Methods\Task 03 - Last digit\bin\Debug\Task 03 - Last digit.exe.config
+D:\C#\Methods\Task 03 - Last digit\bin\Debug\Task 03 - Last digit.exe
+D:\C#\Methods\Task 03 - Last digit\bin\Debug\Task 03 - Last digit.pdb
+D:\C#\Methods\Task 03 - Last digit\obj\Debug\Task 03 - Last digit.exe
+D:\C#\Methods\Task 03 - Last digit\obj\Debug\Task 03 - Last digit.pdb

@@ -1,0 +1,6 @@
+D:\C#\Methods\Task 15 - Generic methods\bin\Debug\Task 15 - Generic methods.exe.config
+D:\C#\Methods\Task 15 - Generic methods\obj\Debug\Task 15 - Generic methods.csprojResolveAssemblyReference.cache
+D:\C#\Methods\Task 15 - Generic methods\bin\Debug\Task 15 - Generic methods.exe
+D:\C#\Methods\Task 15 - Generic methods\bin\Debug\Task 15 - Generic methods.pdb
+D:\C#\Methods\Task 15 - Generic methods\obj\Debug\Task 15 - Generic methods.exe
+D:\C#\Methods\Task 15 - Generic methods\obj\Debug\Task 15 - Generic methods.pdb

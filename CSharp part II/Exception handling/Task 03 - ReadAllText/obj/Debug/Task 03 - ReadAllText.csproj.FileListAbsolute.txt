@@ -1,0 +1,6 @@
+D:\C# Part II\Exception handling\Task 03 - ReadAllText\bin\Debug\Task 03 - ReadAllText.exe.config
+D:\C# Part II\Exception handling\Task 03 - ReadAllText\obj\Debug\Task 03 - ReadAllText.csprojResolveAssemblyReference.cache
+D:\C# Part II\Exception handling\Task 03 - ReadAllText\bin\Debug\Task 03 - ReadAllText.exe
+D:\C# Part II\Exception handling\Task 03 - ReadAllText\bin\Debug\Task 03 - ReadAllText.pdb
+D:\C# Part II\Exception handling\Task 03 - ReadAllText\obj\Debug\Task 03 - ReadAllText.exe
+D:\C# Part II\Exception handling\Task 03 - ReadAllText\obj\Debug\Task 03 - ReadAllText.pdb

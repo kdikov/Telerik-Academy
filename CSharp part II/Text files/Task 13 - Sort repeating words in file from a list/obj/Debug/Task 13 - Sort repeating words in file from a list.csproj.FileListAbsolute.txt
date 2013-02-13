@@ -1,0 +1,6 @@
+D:\C# Part II\Text files\Task 13 - Sort repeating words in file from a list\bin\Debug\Task 13 - Sort repeating words in file from a list.exe.config
+D:\C# Part II\Text files\Task 13 - Sort repeating words in file from a list\obj\Debug\Task 13 - Sort repeating words in file from a list.csprojResolveAssemblyReference.cache
+D:\C# Part II\Text files\Task 13 - Sort repeating words in file from a list\bin\Debug\Task 13 - Sort repeating words in file from a list.exe
+D:\C# Part II\Text files\Task 13 - Sort repeating words in file from a list\bin\Debug\Task 13 - Sort repeating words in file from a list.pdb
+D:\C# Part II\Text files\Task 13 - Sort repeating words in file from a list\obj\Debug\Task 13 - Sort repeating words in file from a list.exe
+D:\C# Part II\Text files\Task 13 - Sort repeating words in file from a list\obj\Debug\Task 13 - Sort repeating words in file from a list.pdb

@@ -1,0 +1,5 @@
+D:\C# Part II\Text files\Task 03 - Line number\bin\Debug\Task 03 - Line number.exe.config
+D:\C# Part II\Text files\Task 03 - Line number\bin\Debug\Task 03 - Line number.exe
+D:\C# Part II\Text files\Task 03 - Line number\bin\Debug\Task 03 - Line number.pdb
+D:\C# Part II\Text files\Task 03 - Line number\obj\Debug\Task 03 - Line number.exe
+D:\C# Part II\Text files\Task 03 - Line number\obj\Debug\Task 03 - Line number.pdb

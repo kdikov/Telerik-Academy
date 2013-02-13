@@ -1,0 +1,6 @@
+D:\C# Part II\Numeral systems\Task 03 - Decimal to Hexadecimal\bin\Debug\Task 03 - Decimal to Hexadecimal.exe.config
+D:\C# Part II\Numeral systems\Task 03 - Decimal to Hexadecimal\obj\Debug\Task 03 - Decimal to Hexadecimal.csprojResolveAssemblyReference.cache
+D:\C# Part II\Numeral systems\Task 03 - Decimal to Hexadecimal\bin\Debug\Task 03 - Decimal to Hexadecimal.exe
+D:\C# Part II\Numeral systems\Task 03 - Decimal to Hexadecimal\bin\Debug\Task 03 - Decimal to Hexadecimal.pdb
+D:\C# Part II\Numeral systems\Task 03 - Decimal to Hexadecimal\obj\Debug\Task 03 - Decimal to Hexadecimal.exe
+D:\C# Part II\Numeral systems\Task 03 - Decimal to Hexadecimal\obj\Debug\Task 03 - Decimal to Hexadecimal.pdb

@@ -1,0 +1,6 @@
+D:\C# Part II\Text files\Task 06 - Sort strings\bin\Debug\Task 06 - Sort strings.exe.config
+D:\C# Part II\Text files\Task 06 - Sort strings\bin\Debug\Task 06 - Sort strings.exe
+D:\C# Part II\Text files\Task 06 - Sort strings\bin\Debug\Task 06 - Sort strings.pdb
+D:\C# Part II\Text files\Task 06 - Sort strings\obj\Debug\Task 06 - Sort strings.exe
+D:\C# Part II\Text files\Task 06 - Sort strings\obj\Debug\Task 06 - Sort strings.pdb
+D:\C# Part II\Text files\Task 06 - Sort strings\obj\Debug\Task 06 - Sort strings.csprojResolveAssemblyReference.cache

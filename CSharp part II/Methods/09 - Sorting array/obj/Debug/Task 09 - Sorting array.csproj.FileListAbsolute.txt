@@ -1,0 +1,6 @@
+D:\C#\Methods\09 - Sorting array\bin\Debug\09 - Sorting array.exe.config
+D:\C#\Methods\09 - Sorting array\obj\Debug\Task 09 - Sorting array.csprojResolveAssemblyReference.cache
+D:\C#\Methods\09 - Sorting array\bin\Debug\09 - Sorting array.exe
+D:\C#\Methods\09 - Sorting array\bin\Debug\09 - Sorting array.pdb
+D:\C#\Methods\09 - Sorting array\obj\Debug\09 - Sorting array.exe
+D:\C#\Methods\09 - Sorting array\obj\Debug\09 - Sorting array.pdb

@@ -1,0 +1,6 @@
+D:\C# Part II\Exception handling\Task 01 - Square root\bin\Debug\Task 01 - Square root.exe.config
+D:\C# Part II\Exception handling\Task 01 - Square root\obj\Debug\Task 01 - Square root.csprojResolveAssemblyReference.cache
+D:\C# Part II\Exception handling\Task 01 - Square root\bin\Debug\Task 01 - Square root.exe
+D:\C# Part II\Exception handling\Task 01 - Square root\bin\Debug\Task 01 - Square root.pdb
+D:\C# Part II\Exception handling\Task 01 - Square root\obj\Debug\Task 01 - Square root.exe
+D:\C# Part II\Exception handling\Task 01 - Square root\obj\Debug\Task 01 - Square root.pdb

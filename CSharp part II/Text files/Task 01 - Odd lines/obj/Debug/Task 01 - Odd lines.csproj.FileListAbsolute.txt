@@ -1,0 +1,6 @@
+D:\C# Part II\Text files\Task 01 - Odd lines\bin\Debug\Task 01 - Odd lines.exe.config
+D:\C# Part II\Text files\Task 01 - Odd lines\bin\Debug\Task 01 - Odd lines.exe
+D:\C# Part II\Text files\Task 01 - Odd lines\bin\Debug\Task 01 - Odd lines.pdb
+D:\C# Part II\Text files\Task 01 - Odd lines\obj\Debug\Task 01 - Odd lines.csprojResolveAssemblyReference.cache
+D:\C# Part II\Text files\Task 01 - Odd lines\obj\Debug\Task 01 - Odd lines.exe
+D:\C# Part II\Text files\Task 01 - Odd lines\obj\Debug\Task 01 - Odd lines.pdb

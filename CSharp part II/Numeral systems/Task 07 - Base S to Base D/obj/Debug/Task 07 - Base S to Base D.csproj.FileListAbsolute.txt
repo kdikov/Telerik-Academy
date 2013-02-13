@@ -1,0 +1,6 @@
+D:\C# Part II\Numeral systems\Task 07 - Base S to Base D\bin\Debug\Task 07 - Base S to Base D.exe.config
+D:\C# Part II\Numeral systems\Task 07 - Base S to Base D\obj\Debug\Task 07 - Base S to Base D.csprojResolveAssemblyReference.cache
+D:\C# Part II\Numeral systems\Task 07 - Base S to Base D\bin\Debug\Task 07 - Base S to Base D.exe
+D:\C# Part II\Numeral systems\Task 07 - Base S to Base D\bin\Debug\Task 07 - Base S to Base D.pdb
+D:\C# Part II\Numeral systems\Task 07 - Base S to Base D\obj\Debug\Task 07 - Base S to Base D.exe
+D:\C# Part II\Numeral systems\Task 07 - Base S to Base D\obj\Debug\Task 07 - Base S to Base D.pdb
